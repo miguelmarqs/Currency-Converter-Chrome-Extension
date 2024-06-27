@@ -15,7 +15,7 @@ This project is a Currency Converter Chrome Extension developed as part of a CS5
 **Clone the Repository**:
 ```sh
    git clone https://github.com/miguelmarqs/Currency-Converter-Chrome-Extension.git
-   cd currency-converter-extension
+   cd Currency-Converter-Chrome-Extension
 ```
 
 ## Load the Extension in Chrome:
