@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Currency Converter Chrome Extension developed as part of a Harvard course project. The extension allows users to convert currencies using the ExchangeRate-API. Users can input an amount in one currency and convert it to another currency directly from the Chrome toolbar.
+This project is a Currency Converter Chrome Extension developed as part of a CS50 from Harvard course project. The extension allows users to convert currencies using the ExchangeRate-API. Users can input an amount in one currency and convert it to another currency directly from the Chrome toolbar.
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is a Currency Converter Chrome Extension developed as part of a Har
 
 ## Installation
 
-1. **Clone the Repository**:
+**Clone the Repository**:
 ```sh
    git clone https://github.com/miguelmarqs/Currency-Converter-Chrome-Extension.git
    cd currency-converter-extension
@@ -59,36 +59,36 @@ Navigate to the dashboard or API key section.
 Copy the API key to use it in your Chrome extension.
 
 ## Supported Currencies
-USD - United States Dollar
-EUR - Euro
-GBP - British Pound Sterling
-JPY - Japanese Yen
-AUD - Australian Dollar
-CAD - Canadian Dollar
-CHF - Swiss Franc
-CNY - Chinese Yuan
-INR - Indian Rupee
-BRL - Brazilian Real
-RUB - Russian Ruble
-ZAR - South African Rand
-SGD - Singapore Dollar
-HKD - Hong Kong Dollar
-NZD - New Zealand Dollar
-MXN - Mexican Peso
-SEK - Swedish Krona
-NOK - Norwegian Krone
-DKK - Danish Krone
-PLN - Polish Zloty
-TRY - Turkish Lira
-HUF - Hungarian Forint
-CZK - Czech Koruna
-ILS - Israeli Shekel
-MYR - Malaysian Ringgit
-THB - Thai Baht
-IDR - Indonesian Rupiah
-PHP - Philippine Peso
-KRW - South Korean Won
-VND - Vietnamese Dong
+- USD - United States Dollar
+- EUR - Euro
+- GBP - British Pound Sterling
+- JPY - Japanese Yen
+- AUD - Australian Dollar
+- CAD - Canadian Dollar
+- CHF - Swiss Franc
+- CNY - Chinese Yuan
+- INR - Indian Rupee
+- BRL - Brazilian Real
+- RUB - Russian Ruble
+- ZAR - South African Rand
+- SGD - Singapore Dollar
+- HKD - Hong Kong Dollar
+- NZD - New Zealand Dollar
+- MXN - Mexican Peso
+- SEK - Swedish Krona
+- NOK - Norwegian Krone
+- DKK - Danish Krone
+- PLN - Polish Zloty
+- TRY - Turkish Lira
+- HUF - Hungarian Forint
+- CZK - Czech Koruna
+- ILS - Israeli Shekel
+- MYR - Malaysian Ringgit
+- THB - Thai Baht
+- IDR - Indonesian Rupiah
+- PHP - Philippine Peso
+- KRW - South Korean Won
+- VND - Vietnamese Dong
 
 ## Acknowledgments
 ExchangeRate-API for providing the free exchange rate API.
