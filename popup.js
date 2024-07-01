@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = '115b60448fe6946e19cd10b0'; // Replace with your ExchangeRate-API key
+    const apiKey = 'REPLACE YOUR TOKEN HERE'; // Replace with your ExchangeRate-API key
   
     // Get the HTML elements by their IDs
     const amountInput = document.getElementById('amount');
